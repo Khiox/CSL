@@ -8,11 +8,13 @@ Avoir le nom de l'affaire dans la note de bas de page d'une jurisprudence;
 Avoir systématiquement un op.cit dès lors que le document est déjà cité (et pas uniquement si la note de base est proche);
 Rajouter le titre de l'ouvrage dans l'Op.Cit. Même si ce n'est pas conventionnel cela devient obligatoire si le même auteur revient et dans tous les cas ça ne fait pas de mal;
 Changer le "locator" (p. / Chap. / Article) pour les articles de code (maintenant Article est en entier, je déteste les abréviations). 
+
+
 D'autres modifications sont à venir. Le style de Base a été fait par l'Université de Bordeaux (Pierre Gravier et Frédérique Flamerie) et est téléchargeable avec sa documentation ici : Style Bordeaux
 
 Tout comme le style initial (lequel a une licence contaminante), le style modifié est sous la licence "CC BY-SA 3.0" (Plus de précisions). Laquelle précise que le style peut être Partagé et Adapté à condition de Mentionner les auteurs et de publier le résultat sous la même licence. 
 
-Oui, ceci n'est pas un readme convenable, parce que Yolo comme on disait en 2014. 
+---
 
 Pour ajouter un style à Zotero : 
 1) Ouvrir Zotero;
