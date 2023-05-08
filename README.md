@@ -1,3 +1,6 @@
+
+ATTENTION : LE STYLE EST ENCORE EN FORMAT EXPÉRIMENTAL, DES ERREURS PEUVENT EXISTER, EXISTENT ET EXISTERONT. LE FORMATAGE DE LA BIBLIOGRAPHIE N'A PAS ÉTÉ MODIFIÉ
+
 Le style Zotero le plus utilisable en France, pour une thèse en droit, est celui publié par l'Université de Bordeaux. Cependant certaines choses ne collaient pas à mes choix personnels :
 
 Avoir des "En ligne" et "Consulté le" qui commencent par une majuscule;
