@@ -1,0 +1,34 @@
+
+ATTENTION : LE STYLE EST ENCORE EN FORMAT EXPÉRIMENTAL, DES ERREURS PEUVENT EXISTER, EXISTENT ET EXISTERONT. LE FORMATAGE DE LA BIBLIOGRAPHIE N'A PAS ÉTÉ MODIFIÉ
+
+Le style Zotero le plus utilisable en France, pour une thèse en droit, est celui publié par l'Université de Bordeaux. Cependant certaines choses ne collaient pas à mes choix personnels :
+
+- Avoir des "En ligne" et "Consulté le" qui commencent par une majuscule;
+
+- Avoir le nom de l'affaire dans la note de bas de page d'une jurisprudence;
+
+- Avoir systématiquement un op.cit dès lors que le document est déjà cité (et pas uniquement si la note de base est proche);
+
+- Rajouter le titre de l'ouvrage dans l'Op.Cit. Même si ce n'est pas conventionnel cela devient obligatoire si le même auteur revient et dans tous les cas ça ne fait pas de mal;
+
+- Changer le "locator" (p. / Chap. / Article) pour les articles de code (maintenant Article est en entier, je déteste les abréviations). 
+
+
+D'autres modifications sont à venir. Le style de Base a été fait par l'Université de Bordeaux (Pierre Gravier et Frédérique Flamerie) et est téléchargeable avec sa documentation ici : http://weburfist.univ-bordeaux.fr/citer-des-references-juridiques-guide-et-style-zotero/
+
+Tout comme le style initial (lequel a une licence contaminante), le style modifié est sous la licence "CC BY-SA 3.0" (Plus de précisions). Laquelle précise que le style peut être Partagé et Adapté à condition de Mentionner les auteurs et de publier le résultat sous la même licence. 
+
+---
+
+Pour ajouter un style à Zotero : 
+1) Ouvrir Zotero;
+2) Édition > Préférences > Citer
+3) Cliquer sur le "plus" en bas de la liste des styles
+4) Ajouter le style téléchargé
+
+
+Une fois dans le document Word : 
+1) Ruban > Zotero > Document préférence
+2) Sélectionner le style
+3) Adapter les paramètres de préférence P.M
+4) ATTENDRE que la progression Zotero soit finie, surtout si vous avez pleins de notes de bas de page. 
